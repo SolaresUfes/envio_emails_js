@@ -26,7 +26,11 @@ Modifique os arquivos html, que estão dentro da pastas "ps-financas-2021" se pr
 Olhe no index.js, você verá que dividimos o html em inicio e fim para poder modificar o conteúdo do meio com o nome ou algum dado do candidato.
 
 
-#### Rode o script
+## Detalhe importante!!!
+Vá nas configurações do gmail e vá em "Segurança". Lembre de habilitar o "Acesso a app menos seguro" para que o programa funcione. Sem isso ocorrerá um erro de permissão e os emails não serão enviados.
+
+
+#### Por fim, rode o script com:
 ```sh
 npm start
 ```
