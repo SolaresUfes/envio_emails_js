@@ -1,0 +1,16 @@
+{
+  "name": "bot-send-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "neat-csv": "^6.0.1"
+  }
+}
