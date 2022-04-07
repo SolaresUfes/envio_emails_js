@@ -33,6 +33,11 @@
     "get-stream" "^6.0.0"
     "to-readable-stream" "^2.1.0"
 
+"nodemailer@^6.7.3":
+  "integrity" "sha512-KUdDsspqx89sD4UUyUKzdlUOper3hRkDVkrKh/89G+d9WKsU5ox51NWS4tB1XR5dPUdR4SP0E3molyEfOvSa3g=="
+  "resolved" "https://registry.npmjs.org/nodemailer/-/nodemailer-6.7.3.tgz"
+  "version" "6.7.3"
+
 "to-readable-stream@^2.1.0":
   "integrity" "sha512-o3Qa6DGg1CEXshSdvWNX2sN4QHqg03SPq7U6jPXRahlQdl5dK8oXjkU/2/sGrnOZKeGV1zLSO8qPwyKklPPE7w=="
   "resolved" "https://registry.npmjs.org/to-readable-stream/-/to-readable-stream-2.1.0.tgz"

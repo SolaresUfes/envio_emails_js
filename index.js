@@ -16,7 +16,7 @@ const fs = require('fs');
 const inicio = fs.readFileSync("./ps-financas-2021/inicio.html"); // modificar o inicio do html que será enviado
 const fim = fs.readFileSync("./ps-financas-2021/final_reprovados.html"); // modificar o final do html que será enviado
 
-const arquivo_csv = "./candidatos_reprovados.csv" // modificar o caminho do arquivo CSV
+const arquivo_csv = "./candidatos_aprovados.csv" // modificar o caminho do arquivo CSV
 
 // cria um objeto de transporte para o envio de e-mails
 var transporter = nodemailer.createTransport({
